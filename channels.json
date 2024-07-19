@@ -1,12 +1,7 @@
-[
-    {
-        "name": "Channel 1",
-        "url": "http://example.com/stream1.m3u8",
-        "logoUrl": "http://example.com/logo1.png"
-    },
-    {
-        "name": "Channel 2",
-        "url": "http://example.com/stream2.ts",
-        "logoUrl": "http://example.com/logo2.png"
-    }
-]
+#EXTM3U
+#EXTINF: -1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/XzVYXaV.png" group-title="LOCAL TV", ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="LOCAL TV",ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/iQnLy7q.png" group-title="LOCAL TV",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
