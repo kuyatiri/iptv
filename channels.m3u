@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/XzVYXaV.png" group-title="LOCAL TV",ANC
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/XzVYXaV.png" group-title="LOCAL TV",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="LOCAL TV",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
@@ -7,21 +7,21 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/iQnLy7q.png" group-title="LOCAL TV",Al Jazeera 2
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/524c0289-a2ff-444a-87c5-badbc7284dcf/2.m3u8
-#EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV",ANIMAX
+#EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV",ANIMAX
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567695.m3u8
-#EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV",ANIMAX HD
+#EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV",ANIMAX HD
 http://108.181.132.217:8070/c6c8f050/3105121e/144838
-#EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV",ANIMAX JAPAN
+#EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV",ANIMAX JAPAN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="LOCAL TV" ,ANIME TV
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="LOCAL TV",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF: -1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="LOCAL TV", ARIRANG
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="LOCAL TV", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF: -1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="LOCAL TV",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="LOCAL TV",Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
-#EXTINF: -1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="LOCAL TV",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="LOCAL TV",Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF: -1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="LOCAL TV",Animal Planet JP
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="LOCAL TV",Animal Planet JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 #EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/1nykesS.jpg" group-title="LOCAL TV",CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
