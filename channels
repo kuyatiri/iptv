@@ -94,11 +94,11 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.rappler.com/tachyon/2022/08/ptv-logo.png" group-title="LOCAL TV", PTV
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF: -1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="LOCAL TV", Kapamilya Channel 
-http://115.146.176.131:80/TimRizal/TimRizal/16.ts
+http://115.146.176.131:80/TimRizal/TimRizal/16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="LOCAL TV" , GTV
 https://xigncode.enics.cloud/hls/kinaenkotamodkokasikinuhakoitokayxigncode/index.m3u8
 #EXTINF: -1 tvg-id="GMA.7.ph" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="LOCAL TV", GMA 
-http://115.146.176.131:80/TimRizal/TimRizal/14.ts
+http://115.146.176.131:80/TimRizal/TimRizal/14.m3u8
 #EXTINF: -1 tvg-id="GMA.7.ph" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="LOCAL TV", GMA TV
 https://iptv-stream.net/wifi5/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/1200px-GMA_News_TV_Logo_Vector.svg.png" group-title="LOCAL TV", GMA NEWS TV
