@@ -57,11 +57,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://imgur.com/AwOQdCx.png" group-title="LOCAL TV",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF: -1 tvg-id="Discovery.Asia.HD.my" tvg-logo="https://i.imgur.com/xk1u2TS.png" group-title="LOCAL TV", Discovery Channel
+#EXTINF: -1 tvg-id="Discovery.Asia.HD.my" tvg-logo="https://i.imgur.com/axS65wv.png" group-title="LOCAL TV", Discovery Channel
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="LOCAL TV" , Discovery HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY.ASIA.ph" tvg-logo="https://i.imgur.com/SbiPKql.png" group-title="LOCAL TV",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="DISCOVERY.ASIA.ph" tvg-logo="https://i.imgur.com/kftMPcc.png" group-title="LOCAL TV",DISCOVERY ASIA
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF: -1 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="LOCAL TV", DISCOVERY TURBO
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
@@ -321,3 +321,223 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcb
 #EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="LOCAL TV",Classic Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceMo
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/9Apnk5O.jpg" group-title="PH local channel", A2Z
+http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=926206&extension=ts&play_token=Xfy6rvXKB2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7SiVYcs.jpg" group-title="PH local channel", ANC
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223520
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uADhFpj.jpg" group-title="PH local channel", Animal Planet
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223521
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Mw0YOcq.jpg" group-title="PH local channel", Animax
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223522
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/axWEqVM.jpg" group-title="PH local channel", Asian Food Network
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223524
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Vwz1vHr.jpg" group-title="PH local channel", AXN
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223525
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tdtsLeU.jpg" group-title="PH local channel", BBC Earth
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223527
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7VHXQj8.jpg" group-title="PH local channel", BBC World News
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223528
+
+#EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/hsB4bLf.jpg" group-title="PH local channel", BuKo Channel
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463620&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kP5pWOM.jpg" group-title="PH local channel", Cartoon Network
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223532
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7IuS1qT.jpg" group-title="PH local channel", Cartoonito
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223530
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1nykesS.jpg" group-title="PH local channel", CCTN 47
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223533
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FTmSeat.jpg" group-title="PH local channel", Cinema One
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=14
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XxAo4fV.jpg" group-title="PH local channel", Cinemax
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223536
+
+#EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/RIYfGf5.jpg" group-title="PH local channel", CineMundo Pinoy
+https://streaming-lunaott.akamaized.net/cinemundopinoy_ottera_4222432781/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dGmFemw.jpg" group-title="PH local channel", CNN
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223539
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dKIy8iW.jpg" group-title="PH local channel", CNN Philippines
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223540
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GO8hRda.jpg" group-title="PH local channel", Crime + Investigation
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223541
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AtO3mUI.jpg" group-title="PH local channel", Discovery
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223542
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Z3cmkgW.jpg" group-title="PH local channel", Dreamworks
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223544
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/espn.png" group-title="PH local channel", ESPN
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223545
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/eurosport.png" group-title="PH local channel", Eurosport
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223546
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/J6APN0v.jpg" group-title="PH local channel", Fashion TV
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223547
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/T5qqCIQ.jpg" group-title="PH local channel", Fight Sports
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223548
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7kLjzAw.jpg" group-title="PH local channel", Fox News
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223549
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5q1fzvG.jpg" group-title="PH local channel", GMA 7
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223550
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xeeaPEf.jpg" group-title="PH local channel", GTV
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223551
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IgJZlW2.jpg" group-title="PH local channel", HBO
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223552
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Ot6dHhp.jpg" group-title="PH local channel", HGTV
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223553
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7twrWuq.jpg" group-title="PH local channel", History
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223554
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lF50g6T.jpg" group-title="PH local channel", Hits Movies
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223555
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xOwX15E.jpg" group-title="PH local channel", INCTV
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223556
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ykhT4Ak.jpg" group-title="PH local channel", Jeepney TV
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223557
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Y9PiFC1.jpg" group-title="PH local channel", Kapamilya Channel
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223559
+
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/Dm2ZlLa.jpg" group-title="PH local channel", Kapamilya Channel HD
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=31053&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cXAGC62.jpg" group-title="PH local channel", KBS World
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223562
+
+#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/ovkKbQC.jpg" group-title="PH local channel", KIX
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=704633&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DLznXU6.jpg" group-title="PH local channel", Lifetime
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223565
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VI7la1o.jpg" group-title="PH local channel", Metro Channel
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223568
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/mtv.png" group-title="PH local channel", MTV Live
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223570
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VxA9c1w.jpg" group-title="PH local channel", MYX
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223571
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/nationalgeo.png" group-title="PH local channel", National Geographic
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223573
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/natgeowild.png" group-title="PH local channel", Cinemachi Docu
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223574
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/k7aOQwG.jpg" group-title="PH local channel", NBA TV Philippines
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223575
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/NHK-JAPAN.png" group-title="PH local channel", NHK world
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223576
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uKVQ5U3.jpg" group-title="PH local channel", Nick Jr.
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223577
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4hzmnK4.jpg" group-title="PH local channel", Nickelodeon
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223578
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MtxHJ43.jpg" group-title="PH local channel", One Ph
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223579
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oMiBxiJ.jpg" group-title="PH local channel", One Sports
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223580
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/CCXW0d0.jpg" group-title="PH local channel", One Sports+
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463644&extension=m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/KziILdU.jpg" group-title="PH local channel", PBA Rush
+http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=914598&extension=ts&play_token=w2Z0ECv0nh
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oLBKueP.jpg" group-title="PH local channel", PBO
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223583
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IINcA6R.jpg" group-title="PH local channel", Pinoy Xtreme
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223584
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jle8vD6.jpg" group-title="PH local channel", Premier Sports
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223585
+
+#EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/lklTuGG.jpg" group-title="PH local channel", Sari-Sari
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463655&extension=m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.sg" tvg-logo="https://i.imgur.com/Ru8HuYA.jpg" group-title="PH local channel", SPOTV
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=704583&extension=m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.2.HD.ph" tvg-logo="https://i.imgur.com/A4EZ7om.jpg" group-title="PH local channel", SPOTV 2
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=115305&extension=m3u8
+
+#EXTINF:-1 tvg-id="TAP.EDGE.ph" tvg-logo="https://i.imgur.com/kEw8bso.jpg" group-title="PH local channel", TAP Edge
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463659&extension=m3u8
+
+#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-logo="https://i.imgur.com/9sbpZCF.jpg" group-title="PH local channel", TAP Movies
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463660&extension=m3u8
+
+#EXTINF:-1 tvg-id="TAP.SPORTS.HD.ph" tvg-logo="https://i.imgur.com/hulLQ14.jpg" group-title="PH local channel", TAP Sports
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463661&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kC5tOKU.jpg" group-title="PH local channel", Tap TV
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223592
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rT3EhV3.jpg" group-title="PH local channel", Tech Storm
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223594
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/xFe2o8i.jpg" group-title="PH local channel", TeleNovela Channel
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463664&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qn9Z0nk.jpg" group-title="PH local channel", Teleradyo
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223596
+
+#EXTINF:-1 tvg-id="THRILL.ph" tvg-logo="https://i.imgur.com/zItbhop.jpg" group-title="PH local channel", Thrill
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463665&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dVxa3k3.jpg" group-title="PH local channel", TLC
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223598
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RrbdjCF.jpg" group-title="PH local channel", TMC
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223599
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/f84l41e.jpg" group-title="PH local channel", TV 5
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223600
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/UfJP4yy.jpg" group-title="PH local channel", TV5 HD
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463668&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GxCFCM2.jpg" group-title="PH local channel", TVN
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223602
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/6uGlmIA.jpg" group-title="PH local channel", UAAP Varsity Channel
+http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463670&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/i4A79p9.jpg" group-title="PH local channel", Viva Cinema
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223604
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2hkXryM.jpg" group-title="PH local channel", Warner TV
+https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223605
+
