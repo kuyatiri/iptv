@@ -321,19 +321,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcb
 #EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="LOCAL TV",Classic Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceMo
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/9Apnk5O.jpg" group-title="PH local channel", A2Z
 http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=926206&extension=ts&play_token=Xfy6rvXKB2
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7SiVYcs.jpg" group-title="PH local channel", ANC
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223520
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uADhFpj.jpg" group-title="PH local channel", Animal Planet
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223521
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Mw0YOcq.jpg" group-title="PH local channel", Animax
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223522
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/axWEqVM.jpg" group-title="PH local channel", Asian Food Network
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223524
 
