@@ -12,11 +12,11 @@ https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV", ANIMAX
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567695.m3u8
 #EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV", ANIMAX HD
-http://108.181.132.217:8070/c6c8f050/3105121e/144838
+http://108.181.132.217:8070/c6c8f050/3105121e/144838.m3u8
 #EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="LOCAL TV", ANIMAX JAPAN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="LOCAL TV" , ANIME TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv1.srvif.com/animetv/animetv/chunklist_w285399135.m3u8
 #EXTINF: -1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="LOCAL TV", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF: -1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="LOCAL TV", Animal Planet
@@ -28,13 +28,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 #EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/1nykesS.jpg" group-title="LOCAL TV", CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF: -1 tvg-id="CineMo!.ph" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="LOCAL TV", CineMo!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="LOCAL TV", Cinema One
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+http://playback2.akamaized.net/streams/19079954_7831871_lsitii6ikszyni64zyo_1/exp=1721735035~acl=%2f*~data=hdntl~hmac=8c807eaf2a5cbd08b09c9d64c3b07d750988a37416af12a62f6b6b8545ca57c2/media/19079954_7831871_lsitii6ikszyni64zyo_1@2256000p.m3u8?dw=32&ts=1721646000
 #EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="LOCAL TV", Cinema One HD
 https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 #EXTINF: -1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="LOCAL TV", PBO
-http://user.scalecdn.co:8080/832396169/832396169/567735
+http://user.scalecdn.co:8080/832396169/832396169/567735.m3u8
 #EXTINF: -1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="LOCAL TV", TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF: -1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="LOCAL TV", TV5
