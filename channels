@@ -6,7 +6,7 @@ http://178.128.21.207:1234/stream/new/kapamilyachannel/master.m3u8?u=phcorner&p=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="LOCAL TV" , GTV
 https://xigncode.enics.cloud/hls/kinaenkotamodkokasikinuhakoitokayxigncode/index.m3u8
 #EXTINF: -1 tvg-id="GMA.7.ph" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="LOCAL TV", GMA 
-https://ln.run/mikephgma7?.m3u8
+http://jeromelaliag.link/iptv/gmanetwork.php
 #EXTINF: -1 tvg-id="GMA.7.ph" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="LOCAL TV", GMA TV
 https://iptv-stream.net/wifi5/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/1200px-GMA_News_TV_Logo_Vector.svg.png" group-title="LOCAL TV", GMA NEWS TV
