@@ -5,7 +5,7 @@
         "name": "KAPAMILYA HD (CON)",
         "logo": "https://i.imgur.com/0xo8Ivs.png",
         "group": "\ud83c\uddf5\ud83c\udded TFC CHANNELS",
-        "stream": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "stream": "https://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
@@ -13,7 +13,7 @@
         "name": "CINEMO PHIL.",
         "logo": "https://i.imgur.com/0xo8Ivs.png",
         "group": "\ud83c\uddf5\ud83c\udded CONV-CIG MOVIES",
-        "stream": "http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "stream": "https://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com",
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
