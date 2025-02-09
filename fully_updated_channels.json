@@ -1,6 +1,43 @@
 [
     
+    
     {
+        "id": "kapcha",
+        "name": "KAPAMILYA (TFC)",
+        "logo": "https://i.imgur.com/54f9r5A.png",
+        "group": "\ud83c\uddf5\ud83c\udded TFC CHANNELS",
+        "stream": "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
+        "clearkey": "bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5",
+        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "id": "vivacinema2",
+        "name": "VIVA CINEMA (CIG)",
+        "logo": "https://i.imgur.com/fx1Y2Eh.png",
+        "group": "\ud83c\uddf5\ud83c\udded CONV-CIG MOVIES",
+        "stream": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd",
+		"clearkey": "07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb",
+        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "id": "cinemotfc",
+        "name": "CINEMO TFC",
+        "logo": "https://i.imgur.com/54f9r5A.png",
+        "group": "\ud83c\uddf5\ud83c\udded TFC CHANNELS",
+        "stream": "https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd",
+		"clearkey": "aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f",
+        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "id": "bbcearthph",
+        "name": "BBC EARTH",
+        "logo": "https://i.imgur.com/fx1Y2Eh.png",
+        "group": "\ud83c\uddf5\ud83c\udded CIGNAL INTERNATIONAL",
+        "stream": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd",
+		"clearkey": "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e",
+        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+	{
         "id": "kapcha1",
         "name": "KAPAMILYA HD (CON)",
         "logo": "https://i.imgur.com/0xo8Ivs.png",
@@ -30,15 +67,6 @@
         "logo": "https://i.imgur.com/0xo8Ivs.png",
         "group": "\ud83c\uddf5\ud83c\udded KAPUSO CHANNELS",
         "stream": "http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    },
-    {
-        "id": "bbcearthph",
-        "name": "BBC EARTH",
-        "logo": "https://i.imgur.com/fx1Y2Eh.png",
-        "group": "\ud83c\uddf5\ud83c\udded CIGNAL INTERNATIONAL",
-        "stream": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd",
-		"clearkey": "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e",
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
 	{
@@ -90,15 +118,6 @@
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
-        "id": "kapcha",
-        "name": "KAPAMILYA (TFC)",
-        "logo": "https://i.imgur.com/54f9r5A.png",
-        "group": "\ud83c\uddf5\ud83c\udded TFC CHANNELS",
-        "stream": "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
-        "clearkey": "bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5",
-        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    },
-    {
         "id": "kapcha2",
         "name": "KAPAMILYA SD (CON)",
         "logo": "https://i.imgur.com/0xo8Ivs.png",
@@ -131,15 +150,6 @@
         "group": "\ud83c\uddf5\ud83c\udded TFC CHANNELS",
         "stream": "https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd",
 		"clearkey": "9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279",
-        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    },
-    {
-        "id": "cinemotfc",
-        "name": "CINEMO TFC",
-        "logo": "https://i.imgur.com/54f9r5A.png",
-        "group": "\ud83c\uddf5\ud83c\udded TFC CHANNELS",
-        "stream": "https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd",
-		"clearkey": "aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f",
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
@@ -577,15 +587,6 @@
         "logo": "https://i.imgur.com/0xo8Ivs.png",
         "group": "\ud83c\uddf5\ud83c\udded CONV-CIG MOVIES",
         "stream": "http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    },
-    {
-        "id": "vivacinema2",
-        "name": "VIVA CINEMA (CIG)",
-        "logo": "https://i.imgur.com/fx1Y2Eh.png",
-        "group": "\ud83c\uddf5\ud83c\udded CONV-CIG MOVIES",
-        "stream": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd",
-		"clearkey": "07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb",
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
