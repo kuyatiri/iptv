@@ -37,6 +37,15 @@
 		"clearkey": "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e",
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
+    {
+        "id": "myx",
+        "name": "MYX",
+        "logo": "https://i.imgur.com/fx1Y2Eh.png",
+        "group": "\ud83c\uddf5\ud83c\udded CIGNAL INTERNATIONAL",
+        "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/83a7b269-7a64-4981-a2a3-a4cccfda6d01/index.mpd",
+		"clearkey": "f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51",
+        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
 	{
         "id": "kapcha1",
         "name": "KAPAMILYA HD (CON)",
